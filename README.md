@@ -88,3 +88,17 @@ developing new quantum encryption and cryptographic algorithms.
 (4) In making Quantum-Cryptography more safe and secure.
 
 (5) In new Scientific and Technological innovations.
+
+# About the Author
+This project was developed solely by Harish Saifi as part of Certificate Course which requires Project(Capstone Project) to deepen/showcase understanding of Quantum Computing gained through the QubitxQubit-Introduction to Quantum Computing by The Coding School,U.S.A virtually.
+
+For feedback or queries, feel free to contact:
+
+Email: [saifiharis12@gmail.com]
+LinkedIn: [Harish Saifi](About the Author
+This project was developed solely by Harish Saifi as part of an initiative to deepen understanding of time series analysis and forecasting techniques.
+
+For feedback or queries, feel free to contact:
+
+Email: [Your Email Address]
+LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/harish-saifi-02734913a/)
